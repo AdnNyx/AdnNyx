@@ -61,7 +61,7 @@
 	<img alt="Vuejs" src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
 </a>
 
-<a href="https://www.flask.com/">
+<a href="https://flask.palletsprojects.com/en/stable/">
 	<img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 </a>
 
