@@ -21,19 +21,19 @@
 - 💬 Talk to me about freelancing opportunities in software engineering
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-  <a href="https://plotly.com/" target="_blank">
+  <a href="https://html.com/" target="_blank">
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   </a>
   
-<a href="https://www.mysql.com/">
+<a href="https://www.javascript.com/">
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </a>
 
-   <a href="https://streamlit.io/" target="_blank">
+   <a href="https://www.typescriptlang.org/" target="_blank">
     <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   </a>
   
-  <a href="https://www.java.com" target="_blank"> 
+  <a href="https://react.dev/" target="_blank"> 
     <img alt="Reactjs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   </a>
 
@@ -41,23 +41,23 @@
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   </a>
 
-   <a href="https://scikit-learn.org/" target="_blank">
+   <a href="https://nextjs.org/" target="_blank">
     <img alt="Nextjs" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   </a>
 
-   <a href="https://keras.io/" target="_blank">
+   <a href="https://nestjs.com/" target="_blank">
     <img alt="Nestjs" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
   </a>
 
-   <a href="https://numpy.org/" target="_blank">
+   <a href="https://tailwindcss.com/" target="_blank">
     <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   </a>
 
-   <a href="https://pandas.pydata.org/" target="_blank">
+   <a href="https://www.npmjs.com/package/web3" target="_blank">
     <img alt="Web3js" src="https://img.shields.io/badge/web3%20js-F16822?style=for-the-badge&logo=web3.js&logoColor=white">
   </a>
   
-<a href="https://www.docker.com/">
+<a href="https://www.vuejs.org/">
 	<img alt="Vuejs" src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
 </a>
 
@@ -65,19 +65,19 @@
 	<img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 </a>
 
-   <a href="https://opencv.org/" target="_blank">
+   <a href="https://n8n.io/" target="_blank">
     <img alt="N8N" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white&logoSize=auto">
   </a>
   
-   <a href="https://www.selenium.dev/" target="_blank">
+   <a href="https://www.reactnative.dev/" target="_blank">
     <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   </a>
   
-   <a href="https://jupyter.org/" target="_blank">
+   <a href="https://getbootstrap.com/" target="_blank">
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   </a>
   
-<a href="https://www.heroku.com/">
+<a href="https://www.postgresql.org/">
 	<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </a>
 
