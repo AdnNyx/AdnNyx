@@ -9,6 +9,9 @@
    <a href="https://www.linkedin.com/in/mahfudin-adnan-410963378/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+   <a href="https://x.com/adn_nyx" target="_blank">
+    <img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+  </a>
    <a href="#" target="_blank">
     <img alt="Portofolio" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white">
   </a>
