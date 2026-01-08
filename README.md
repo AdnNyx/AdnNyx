@@ -15,8 +15,12 @@
 - 💬 Talk to me about freelancing opportunities in software engineering
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <a href="https://plotly.com/" target="_blank">
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  </a>
+  
+  <a href="https://www.java.com" target="_blank"> 
+    <img alt="Reactjs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   </a>
 
    <a href="https://www.python.org" target="_blank">
@@ -32,15 +36,11 @@
   </a>
 
    <a href="https://numpy.org/" target="_blank">
-    <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
+    <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   </a>
 
    <a href="https://pandas.pydata.org/" target="_blank">
-    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
-  </a>
-
-   <a href="https://plotly.com/" target="_blank">
-    <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
+    <img alt="Web3js" src="https://img.shields.io/badge/web3%20js-F16822?style=for-the-badge&logo=web3.js&logoColor=white">
   </a>
 
    <a href="https://streamlit.io/" target="_blank">
