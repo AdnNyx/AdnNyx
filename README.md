@@ -45,8 +45,8 @@
     <img alt="Nextjs" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   </a>
 
-   <a href="https://nestjs.com/" target="_blank">
-    <img alt="Nestjs" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+   <a href="https://tensorflow.org/" target="_blank">
+    <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
   </a>
 
    <a href="https://tailwindcss.com/" target="_blank">
