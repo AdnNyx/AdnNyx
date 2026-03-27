@@ -63,7 +63,7 @@
 
 <a href="https://flutter.dev/">
 	<img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
-</a
+</a>
 
 <a href="https://flask.palletsprojects.com/en/stable/">
 	<img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
