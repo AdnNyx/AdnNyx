@@ -12,7 +12,7 @@
    <a href="https://x.com/adn_nyx" target="_blank">
     <img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
   </a>
-   <a href="https://nandev-kappa.vercel.app/" target="_blank">
+   <a href="https://nandev.my.id/" target="_blank">
     <img alt="Portofolio" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white">
   </a>
 
