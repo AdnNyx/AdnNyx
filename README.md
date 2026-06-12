@@ -24,9 +24,6 @@
 
 <h3> 💻 Programming Languages </h3>
 <p>
-  <a href="https://html.com/" target="_blank">
-    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  </a>
   <a href="https://www.javascript.com/" target="_blank">
     <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   </a>
